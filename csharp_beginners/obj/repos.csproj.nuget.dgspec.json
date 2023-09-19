@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/breno/Documents/repos/Csharp-beginners/repos.csproj": {}
+    "/home/breno/Documents/csharp_study/csharp_beginners/repos.csproj": {}
   },
   "projects": {
-    "/home/breno/Documents/repos/Csharp-beginners/repos.csproj": {
+    "/home/breno/Documents/csharp_study/csharp_beginners/repos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/breno/Documents/repos/Csharp-beginners/repos.csproj",
+        "projectUniqueName": "/home/breno/Documents/csharp_study/csharp_beginners/repos.csproj",
         "projectName": "repos",
-        "projectPath": "/home/breno/Documents/repos/Csharp-beginners/repos.csproj",
+        "projectPath": "/home/breno/Documents/csharp_study/csharp_beginners/repos.csproj",
         "packagesPath": "/home/breno/.nuget/packages/",
-        "outputPath": "/home/breno/Documents/repos/Csharp-beginners/obj/",
+        "outputPath": "/home/breno/Documents/csharp_study/csharp_beginners/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/breno/.nuget/NuGet/NuGet.Config"
