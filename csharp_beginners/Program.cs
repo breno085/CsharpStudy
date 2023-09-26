@@ -48,25 +48,68 @@
 //         }
 
 //criando um programinha que diz o maior de 10 numeros, com o conhecimento que aprendi agora
-int maiorNum = 0;
-int nextNum = 0;
+// int proxNum = 0;
+// int maiorNum = int.MinValue;;
+// int i = 0;
+
+// while (i < 10){
+//     Console.WriteLine("Digite um numero inteiro:");
+//     try
+//     {
+//         proxNum = Convert.ToInt32(Console.ReadLine());
+//     }
+//     catch (FormatException)
+//     {
+//         Console.WriteLine("Valor invalido.");
+//         i--;
+//     }
+//     if  (proxNum > maiorNum){
+//         maiorNum = proxNum;
+//         //Console.WriteLine($"Maior numero atual: {maiorNum}");
+//     } 
+//     i++;
+// }
+// Console.WriteLine($"O maior numero é {maiorNum}");
+
+//Outra forma mais eficiente de escrever o codigo acima
+// int maiorNumero = int.MinValue; 
+// int proximoNumero;
+// int tentativasMaximas = 10;
+
+// for (int i = 0; i < tentativasMaximas; i++)
+// {
+//     Console.WriteLine("Digite um número inteiro:");
+//     if (int.TryParse(Console.ReadLine(), out proximoNumero))
+//     {
+//         if (proximoNumero > maiorNumero)
+//         {
+//             maiorNumero = proximoNumero;
+//         }
+//     }
+//     else
+//     {
+//         Console.WriteLine("Valor inválido. Tente novamente.");
+//         i--; // Reduza a contagem se uma entrada inválida for detectada
+//     }
+// }
+
+// Console.WriteLine($"O maior número é {maiorNumero}");
+
+//O codigo necessario para a prova de algo I
+int proxNum;
+int maiorNum = int.MinValue;
 int i = 0;
 
 while (i < 10){
     Console.WriteLine("Digite um numero inteiro:");
-    try
-    {
-        nextNum = Convert.ToInt32(Console.ReadLine());
-    }
-    catch (FormatException)
-    {
-        Console.WriteLine("Valor invalido, digite um numero inteiro.");
-        i--;
-    }
-    if  (nextNum > maiorNum){
-        maiorNum = nextNum;
+    proxNum = Convert.ToInt32(Console.ReadLine());
+    if  (proxNum > maiorNum){
+        maiorNum = proxNum;
         //Console.WriteLine($"Maior numero atual: {maiorNum}");
     } 
     i++;
 }
-Console.WriteLine($"O maior numero é: {maiorNum}");
+Console.WriteLine($"O maior numero é {maiorNum}");
+
+
+
