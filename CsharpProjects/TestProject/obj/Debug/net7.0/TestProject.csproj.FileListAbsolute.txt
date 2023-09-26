@@ -1,0 +1,15 @@
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
