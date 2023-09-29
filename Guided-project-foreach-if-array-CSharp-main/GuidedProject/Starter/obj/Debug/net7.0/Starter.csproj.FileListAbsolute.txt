@@ -1,0 +1,15 @@
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.dll
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/bin/Debug/net7.0/Starter.pdb
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.dll
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.pdb
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/home/breno/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/ref/Starter.dll
