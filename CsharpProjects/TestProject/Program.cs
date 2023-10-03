@@ -48,26 +48,46 @@
 
 //Code project 1 - write code that validates integer input
 
-bool validEntry = false;
-string? answer;
-int userNumber = 0;
+// bool validEntry = false;
+// string? answer;
+// int userNumber = 0;
 
-Console.WriteLine("Enter a number between 5 and 10");
+// Console.WriteLine("Enter a number between 5 and 10");
 
-while (validEntry == false)
-{
-    answer = Console.ReadLine();
+// while (validEntry == false)
+// {
+//     answer = Console.ReadLine();
 
-    if (int.TryParse(answer, out userNumber))
-    {   
-        if (!(userNumber > 5 && userNumber < 10))
-            Console.WriteLine($"You entered {userNumber}. Please enter a number between 5 and 10.");
-        else
-            validEntry = true;
-    } else
-        Console.WriteLine("Sorry, you entered a invalid number, please try again");
-} 
-Console.WriteLine($"You typed a valid ({userNumber}) integer.");
+//     if (int.TryParse(answer, out userNumber))
+//     {   
+//         if (!(userNumber > 5 && userNumber < 10))
+//             Console.WriteLine($"You entered {userNumber}. Please enter a number between 5 and 10.");
+//         else
+//             validEntry = true;
+//     } else
+//         Console.WriteLine("Sorry, you entered a invalid number, please try again");
+// } 
+// Console.WriteLine($"You typed a valid ({userNumber}) integer.");
 
 //Code project 2 - write code that validates string input
+
+// bool validEntry = false;
+// string answer = "";
+
+// Console.WriteLine("Enter you role name (Administrator, Manager, or User)");
+
+// while (validEntry == false)
+// {
+//     answer = Console.ReadLine().Trim().ToLower();
+
+//     if (answer == "administrator" || answer == "manager" || answer == "user")
+//     {
+//         validEntry = true;
+//     } else
+//         Console.WriteLine($"Your answer is not valid, enter you role (Administrator, Manager, or User) ");
+// }
+// Console.WriteLine($"Your input ({answer}) has been accepted");
+
+//Code project 3 - Write code that processes the contents of a string array
+
 
