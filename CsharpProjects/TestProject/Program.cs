@@ -90,4 +90,23 @@
 
 //Code project 3 - Write code that processes the contents of a string array
 
+string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
 
+for (int i = 0; i < myStrings.Length; i++)
+{   //this is another easier way to do it ()
+    //string[] phrases = myStrings[i].Split(". ");
+    //for (int j = 0; j < phrases.Length; j++)
+    //   Console.WriteLine(phrases[j]);
+    do
+    {
+        int periodLocation = myStrings[i].IndexOf(".");
+        if (periodLocation > 0)
+        {
+            Console.WriteLine(myStrings[i].Substring(0, periodLocation));
+            myStrings[i] = myStrings[i].Remove(0, periodLocation + 1).TrimStart(' ');
+        } else
+        {   Console.WriteLine(myStrings[i]);
+            break;
+        }
+    } while (true);
+}
