@@ -149,7 +149,7 @@ do
                     Console.WriteLine("\n\rEnter 'dog' or 'cat' to begin a new entry");
                     readResult = Console.ReadLine();
                     if (readResult != null)
-                    {   
+                    {
                         animalSpecies = readResult.ToLower();
                         // build the animal the ID number - for example C1, C2, D3 (for Cat 1, Cat 2, Dog 3)
                         animalID = animalSpecies.Substring(0, 1) + (petCount + 1).ToString();
@@ -204,6 +204,20 @@ do
                             }
                         } while (animalNickname == "");
 
+                        do
+                        {
+                            Console.WriteLine("Describe your pet personality");
+                            readResult = Console.ReadLine();
+                            if (readResult != null)
+                            {
+                                animalPersonalityDescription = readResult.ToLower();
+                                if (animalPersonalityDescription == "")
+                                {
+                                    animalPersonalityDescription = "tbd";
+                                }
+                            }
+                        } while (animalPersonalityDescription == "");
+                        
                         // store the pet information in the ourAnimals array (zero based)
                         ourAnimals[petCount, 0] = "ID #: " + animalID;
                         ourAnimals[petCount, 1] = "Species: " + animalSpecies;
@@ -211,7 +225,7 @@ do
                         ourAnimals[petCount, 3] = "Nickname: " + animalNickname;
                         ourAnimals[petCount, 4] = "Physical description: " + animalPhysicalDescription;
                         ourAnimals[petCount, 5] = "Personality: " + animalPersonalityDescription;
-                    
+
                         if (animalSpecies != "dog" && animalSpecies != "cat")
                         {
                             validEntry = false;
