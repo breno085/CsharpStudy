@@ -1,2 +1,6 @@
 # Challenge-project-branching-looping-CSharp
 Starter and Solution code for the Challenge project: "Develop conditional branching and looping structures in C#" from the Microsoft Learn collection "Getting started with C#"
+
+Importante me lembrar sobre do-while e while:
+ Se usou muito loops de do-while ao invés de while, pois muitas vezes não se sabia qual era condição da variável antes do loop, se ela era verdadeira ou falsa (a variável validEntry por exemplo foi usada muitas vezes no código, em muitos loops, então ficava difícil saber qual era a sua condição atual). Se um loop executa só enquanto uma condição é falsa, mas ela era verdadeira antes, se eu fosse usar o while loop, o bloco de código nunca iria executar, mas usando o do-while o bloco de código sempre é executado pelo menos uma vez, com isso o loop poderá se repetir ou não dependendo da alteração da condição dentro do bloco de código, indepente do valor que estava atribuída a ela anteriormente.
+ Então o do-while é bom de usar quando não se sabe a condição/valor da variável antes.
