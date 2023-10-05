@@ -320,8 +320,8 @@ do
                     }
                 }
             }
-            Console.WriteLine();
-            Console.WriteLine("Age and physical description fields are complete for all of our friends.");
+
+            Console.WriteLine("\nAge and physical description fields are complete for all of our friends.");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
@@ -340,7 +340,7 @@ do
                             readResult = Console.ReadLine();
                             if (readResult != null)
                             {
-                                animalNickname = readResult;
+                                animalNickname = readResult.ToLower();
                             }
                         } while (animalNickname == "");
 
@@ -354,7 +354,7 @@ do
                             readResult = Console.ReadLine();
                             if (readResult != null)
                             {
-                                animalPersonalityDescription = readResult;
+                                animalPersonalityDescription = readResult.ToLower();
                             }
                         } while (animalPersonalityDescription == "");
 
@@ -362,8 +362,8 @@ do
                     }
                 }
             }
-            Console.WriteLine();
-            Console.WriteLine("Nickname and personality description fields are complete for all of our friends.");
+
+            Console.WriteLine("\nNickname and personality description fields are complete for all of our friends.");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
