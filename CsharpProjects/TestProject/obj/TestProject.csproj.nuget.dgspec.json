@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/TestProject.csproj": {}
+    "/home/brenoacioli/Documents/CsharpStudy/CsharpProjects/TestProject/TestProject.csproj": {}
   },
   "projects": {
-    "/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/TestProject.csproj": {
+    "/home/brenoacioli/Documents/CsharpStudy/CsharpProjects/TestProject/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/TestProject.csproj",
+        "projectUniqueName": "/home/brenoacioli/Documents/CsharpStudy/CsharpProjects/TestProject/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/TestProject.csproj",
-        "packagesPath": "/home/breno/.nuget/packages/",
-        "outputPath": "/home/breno/Documents/CsharpStudy/CsharpProjects/TestProject/obj/",
+        "projectPath": "/home/brenoacioli/Documents/CsharpStudy/CsharpProjects/TestProject/TestProject.csproj",
+        "packagesPath": "/home/brenoacioli/.nuget/packages/",
+        "outputPath": "/home/brenoacioli/Documents/CsharpStudy/CsharpProjects/TestProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/breno/.nuget/NuGet/NuGet.Config"
+          "/home/brenoacioli/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
