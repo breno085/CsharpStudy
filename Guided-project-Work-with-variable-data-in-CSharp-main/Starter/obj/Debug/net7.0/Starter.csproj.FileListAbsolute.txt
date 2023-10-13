@@ -1,0 +1,15 @@
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.deps.json
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.dll
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/bin/Debug/net7.0/Starter.pdb
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.dll
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/refint/Starter.dll
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.pdb
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/home/brenoacioli/Documents/CsharpStudy/Guided-project-Work-with-variable-data-in-CSharp-main/Starter/obj/Debug/net7.0/ref/Starter.dll
