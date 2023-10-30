@@ -1,0 +1,15 @@
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/bin/Debug/net7.0/guided-project-petting-zoo
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/bin/Debug/net7.0/guided-project-petting-zoo.deps.json
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/bin/Debug/net7.0/guided-project-petting-zoo.runtimeconfig.json
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/bin/Debug/net7.0/guided-project-petting-zoo.dll
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/bin/Debug/net7.0/guided-project-petting-zoo.pdb
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/guided-project-petting-zoo.csproj.AssemblyReference.cache
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/guided-project-petting-zoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/guided-project-petting-zoo.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/guided-project-petting-zoo.AssemblyInfo.cs
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/guided-project-petting-zoo.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/guided-project-petting-zoo.dll
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/refint/guided-project-petting-zoo.dll
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/guided-project-petting-zoo.pdb
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/guided-project-petting-zoo.genruntimeconfig.cache
+/home/brenoacioli/Documents/CsharpStudy/guided-project-petting-zoo/obj/Debug/net7.0/ref/guided-project-petting-zoo.dll
