@@ -1,4 +1,8 @@
-﻿using System;
+﻿//OBS: Ta dando um erro na versão do .NET se eu executar esse programa no console nesse arquivo, porém
+//ele funciona normalmente se eu copiar o código abaixo para o CsharpProject/TestProject
+
+using System;
+using System.Security.Cryptography;
 
 Random random = new Random();
 Console.CursorVisible = false;
@@ -26,8 +30,16 @@ int food = 0;
 
 InitializeGame();
 while (!shouldExit) 
-{
-    Move();
+{   
+    if (IsPlayerFaster())
+    {
+        Move(1);
+    } else
+    {
+        Move(nonDirectionKey: true);
+    }
+    Positions(playerX, playerY, foodX, foodY);
+    CheckPlayerAppearance(true);
 }
 
 // Returns true if the Terminal was resized 
@@ -67,37 +79,57 @@ void FreezePlayer()
 }
 
 // Reads directional input from the Console and moves the player
-void Move() 
+void Move(int speed = 1, bool nonDirectionKey = false) 
 {
     int lastX = playerX;
     int lastY = playerY;
-    
-    switch (Console.ReadKey(true).Key) 
+    bool endProgram = false;
+
+    if (TerminalResized())
+    {   
+        Console.Clear();
+        shouldExit = true;
+        Console.WriteLine("Console was resized. Program exiting.");
+        return;
+    }
+
+    switch (Console.ReadKey(true).Key)
     {
         case ConsoleKey.UpArrow:
-            playerY--; 
+            playerY--;
             break;
-		case ConsoleKey.DownArrow: 
-            playerY++; 
+        case ConsoleKey.DownArrow:
+            playerY++;
             break;
-		case ConsoleKey.LeftArrow:  
-            playerX--; 
+        case ConsoleKey.LeftArrow:
+            playerX -= speed;
             break;
-		case ConsoleKey.RightArrow: 
-            playerX++; 
+        case ConsoleKey.RightArrow:
+            playerX += speed;
             break;
-		case ConsoleKey.Escape:     
-            shouldExit = true; 
+        case ConsoleKey.Escape:
+            shouldExit = true;
+            break;
+        default:
+            endProgram = true;
             break;
     }
 
+    if (nonDirectionKey)
+    {
+        if (endProgram)
+        {  
+            shouldExit = true;
+            Console.Clear();
+            return;
+        }
+    }
     // Clear the characters at the previous position
     Console.SetCursorPosition(lastX, lastY);
     for (int i = 0; i < player.Length; i++) 
-    {
+    {   
         Console.Write(" ");
     }
-    
     // Keep player position within the bounds of the Terminal window
     playerX = (playerX < 0) ? 0 : (playerX >= width ? width : playerX);
     playerY = (playerY < 0) ? 0 : (playerY >= height ? height : playerY);
@@ -114,4 +146,30 @@ void InitializeGame()
     ShowFood();
     Console.SetCursorPosition(0, 0);
     Console.Write(player);
+
+}
+
+void Positions(int playerX, int playerY, int foodX, int foodY)
+{
+    if (playerX == foodX && playerY == foodY)
+    {
+        ChangePlayer();
+        ShowFood();
+    }
+}
+
+void CheckPlayerAppearance(bool enabled = false)
+{   
+    if (enabled)
+    {   
+        if (player == "(X_X)")
+        {
+            FreezePlayer();
+        }
+    }
+}
+
+bool IsPlayerFaster()
+{
+    return player == states[1];
 }
