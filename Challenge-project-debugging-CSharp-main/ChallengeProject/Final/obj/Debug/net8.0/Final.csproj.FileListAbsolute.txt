@@ -1,0 +1,15 @@
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.deps.json
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.dll
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/bin/Debug/net8.0/Final.pdb
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.dll
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/refint/Final.dll
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.pdb
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/home/brenoacioli/Documents/CsharpStudy/Challenge-project-debugging-CSharp-main/ChallengeProject/Final/obj/Debug/net8.0/ref/Final.dll

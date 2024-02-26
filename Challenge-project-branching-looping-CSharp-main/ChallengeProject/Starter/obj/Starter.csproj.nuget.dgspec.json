@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/breno/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj": {}
+    "/home/brenoacioli/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj": {}
   },
   "projects": {
-    "/home/breno/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj": {
+    "/home/brenoacioli/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/breno/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj",
+        "projectUniqueName": "/home/brenoacioli/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/home/breno/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj",
-        "packagesPath": "/home/breno/.nuget/packages/",
-        "outputPath": "/home/breno/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/",
+        "projectPath": "/home/brenoacioli/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/Starter.csproj",
+        "packagesPath": "/home/brenoacioli/.nuget/packages/",
+        "outputPath": "/home/brenoacioli/Documents/CsharpStudy/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/breno/.nuget/NuGet/NuGet.Config"
+          "/home/brenoacioli/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

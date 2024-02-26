@@ -21,7 +21,6 @@ Previously codes that were used as test projects:
 // int saleAmount = 1001;
 // // int discount = saleAmount > 1000 ? 100 : 50;
 // Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
-
 // Random coin = new Random();
 // int flip = coin.Next(1, 3);
 // Console.WriteLine($"Result: {(flip > 1 ? "tails" : "heads")}");

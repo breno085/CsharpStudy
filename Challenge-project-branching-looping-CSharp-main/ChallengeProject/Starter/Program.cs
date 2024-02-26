@@ -214,7 +214,6 @@ do
                     }
                 } while (validEntry == false);
 
-
                 // get a description of the pet's personality - animalPersonalityDescription can be blank.
                 do
                 {
